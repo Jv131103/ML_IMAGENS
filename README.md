@@ -166,6 +166,7 @@ ML_IMAGENS/
 ├── notebook/
 │   ├── FIAP_FASE6_ENTREGA_PRINCIPAL_SEM_IR_ALEM.ipynb
 │   ├── IR_ALEM_2_FASE6.ipynb
+|   ├── figura_autoral_ir_alem_2.png
 │   │
 │   ├── dataset/
 │   │   ├── train/
@@ -196,8 +197,6 @@ ML_IMAGENS/
     ├── segmentacao/
     └── graficos/
 ```
-
-> Os diretórios `dataset/`, `dataset_yolo/`, `yolov5/` e os resultados pesados de treinamento podem ser ignorados no Git e reconstruídos localmente.
 
 ---
 
@@ -646,6 +645,7 @@ Para manter o repositório leve, os arquivos de evidência e os datasets foram o
 Os gráficos, matrizes de confusão, exemplos de detecção e previsões estão documentados em um README específico:
 
 ➡️ [Acessar o README dos assets](assets/README_ASSETS.md)
+➡️ [Acessar Imagem de FIGURA AUTORAL](notebook/figura_autoral_ir_alem_2.png)
 
 A pasta `assets/` contém apenas arquivos leves e relevantes para comprovar os resultados apresentados no notebook.
 

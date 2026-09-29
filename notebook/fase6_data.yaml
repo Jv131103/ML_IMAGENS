@@ -1,0 +1,8 @@
+path: /home/debianjv/Documentos/ML_IMAGENS/notebook/dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names:
+- garrafa
+- caneca

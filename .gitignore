@@ -1,0 +1,143 @@
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# ============================================================
+# Jupyter
+# ============================================================
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ============================================================
+# IDEs / Editores
+# ============================================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================================
+# Sistema operacional
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Dataset
+# ============================================================
+# Os datasets são mantidos fora do Git por tamanho e organização.
+
+dataset/
+dataset_yolo/
+
+notebook/dataset/
+notebook/dataset_yolo/
+
+# ============================================================
+# YOLOv5
+# ============================================================
+# O repositório oficial pode ser clonado novamente.
+
+yolov5/
+notebook/yolov5/
+
+# ============================================================
+# Resultados gerados automaticamente
+# ============================================================
+
+runs/
+**/runs/
+
+# YOLO cache
+*.cache
+*.cache.npy
+
+# TensorBoard
+logs/
+**/logs/
+
+# ============================================================
+# Pesos / modelos treinados
+# ============================================================
+
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.keras
+*.h5
+*.pb
+
+# Caso queira versionar UM peso específico, remova a regra *.pt
+# ou use uma exceção como:
+# !models/best.pt
+
+# ============================================================
+# Arquivos temporários e logs
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+tmp/
+temp/
+.cache/
+
+# ============================================================
+# Python tooling / testes
+# ============================================================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ============================================================
+# Pacotes / builds
+# ============================================================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================================================
+# Arquivos de ambiente / segredos
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+# ============================================================
+# Downloads automáticos de modelos
+# ============================================================
+
+*.weights
+
+# ============================================================
+# Manter evidências leves no Git
+# ============================================================
+# A pasta assets/ NÃO é ignorada propositalmente.
+# Coloque nela apenas gráficos, matrizes, prints e imagens finais.
+#
+# assets/

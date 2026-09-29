@@ -655,7 +655,7 @@ Os dois datasets utilizados no projeto não são versionados diretamente no GitH
 
 Eles serão disponibilizados em um único arquivo `.zip` pelo Google Drive:
 
-➡️ [Baixar os datasets pelo Google Drive](https://drive.google.com/file/d/1eIuec6rBPNndNFYvWlP6yw8Ll8WTBZvm/view?usp=drive_link)
+➡️ [Baixar os datasets pelo Google Drive](https://drive.google.com/drive/folders/1XJ7Omf0RVH7FTYd7EV-RndP7XlD3nE9T?usp=sharing)
 
 Conteúdo esperado do `.zip`:
 

@@ -644,7 +644,7 @@ Para manter o repositório leve, os arquivos de evidência e os datasets foram o
 
 Os gráficos, matrizes de confusão, exemplos de detecção e previsões estão documentados em um README específico:
 
-➡️ [Acessar o README dos assets](assets/README_ASSETS.md)
+➡️ [Acessar o README dos assets](assets/README_ASSETS.md)<br>
 ➡️ [Acessar Imagem de FIGURA AUTORAL](notebook/figura_autoral_ir_alem_2.png)
 
 A pasta `assets/` contém apenas arquivos leves e relevantes para comprovar os resultados apresentados no notebook.

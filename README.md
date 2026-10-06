@@ -24,6 +24,15 @@ A solução inclui as entregas obrigatórias e o **Ir Além 2**, contemplando:
 
 ---
 
+# Vídeo demonstrativo
+
+A entrega prevê um vídeo de demonstração de até **5 minutos**, publicado no YouTube como **não listado**.
+
+👉 **[Assistir à Demonstração do Projeto no YouTube](https://www.youtube.com/watch?v=bFOF883bmIY)** <br>
+https://www.youtube.com/watch?v=bFOF883bmIY
+
+---
+
 ## Integrantes
 
 - João Vitor Justino — RM572969
@@ -692,29 +701,6 @@ ML_IMAGENS/
     ├── yolov5/
     └── notebooks...
 ```
----
-
-# Vídeo demonstrativo
-
-A entrega prevê um vídeo de demonstração de até **5 minutos**, publicado no YouTube como **não listado**.
-
-Adicionar o link abaixo:
-
-```text
-Vídeo: ADICIONAR_LINK_DO_YOUTUBE
-```
-
-No vídeo, recomenda-se demonstrar:
-
-1. estrutura do projeto;
-2. dataset;
-3. YOLO 30 × 60 épocas;
-4. detecções da YOLO customizada;
-5. YOLO padrão;
-6. CNN;
-7. Transfer Learning e Fine Tuning;
-8. segmentação;
-9. principais conclusões.
 
 ---
 
